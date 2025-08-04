@@ -1,4 +1,4 @@
-## # Shota Miyazaki, Ph.D.
+## Shota Miyazaki, Ph.D.
 JSPS researcher (PD) @ JAXA/ISAS  
 Infrared Astronomy / Exoplanets / Data Analysis
 
