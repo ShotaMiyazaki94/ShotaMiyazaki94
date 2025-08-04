@@ -1,4 +1,10 @@
-## 
+## # Shota Miyazaki, Ph.D.
+JSPS researcher (PD) @ JAXA/ISAS  
+Infrared Astronomy / Exoplanets / Data Analysis
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9818--1513-green)](https://orcid.org/0000-0001-9818-1513)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=TQSj6CYAAAAJ&hl=en)
+[![researchmap](https://img.shields.io/badge/researchmap-Profile-lightgrey)](https://researchmap.jp/shotamiyazaki)
 
 <!--
 **ShotaMiyazaki94/ShotaMiyazaki94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
