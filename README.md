@@ -5,6 +5,10 @@ JSPS Research Fellow (PD) @ ISAS/JAXA
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=TQSj6CYAAAAJ&hl=en)
 [![researchmap](https://img.shields.io/badge/researchmap-Profile-lightgrey)](https://researchmap.jp/shotamiyazaki?lang=en)
 
+## Projects
+- **[microJAX](https://github.com/ShotaMiyazaki94/microJAX)**  
+  GPU-accelerated, differentiable microlensing modeling framework.
+
 ## Contact
 📧 miyazaki [at] ir.isas.jaxa.jp  
 🌐 [Personal Site](https://sites.google.com/view/shotamiyazaki/english)
