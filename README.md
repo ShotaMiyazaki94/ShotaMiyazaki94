@@ -1,8 +1,6 @@
 ## Shota Miyazaki, Ph.D.
 JSPS Research Fellow (PD) @ ISAS/JAXA  
-- Infrared astronomy
-- Exoplanet demographics
-- Data science
+Infrared astronomy/Exoplanet demographics/Data science
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9818--1513-green)](https://orcid.org/0000-0001-9818-1513)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=TQSj6CYAAAAJ&hl=en)
