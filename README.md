@@ -54,7 +54,3 @@ For a complete publication list, see [Google Scholar](https://scholar.google.com
 
 - Email: `miyazaki [at] ir.isas.jaxa.jp`
 - Website: [sites.google.com/view/shotamiyazaki/](https://sites.google.com/view/shotamiyazaki/)
-
-
-- Website: [sites.google.com/view/shotamiyazaki/](https://sites.google.com/view/shotamiyazaki/)
-
