@@ -1,10 +1,10 @@
 # Shota Miyazaki (宮﨑 翔太), Ph.D.
 
-**Astrophysicist working on exoplanets, gravitational microlensing, and differentiable scientific computing**
+**Astrophysicist | Exoplanet Demographics · Gravitational Microlensing · Differentiable Modeling**
 
 JSPS Postdoctoral Research Fellow (PD) at the Institute of Space and Astronautical Science (ISAS), Japan Aerospace Exploration Agency (JAXA). 
 
-I study exoplanet populations through gravitational microlensing, infrared astronomy, and statistical data analysis. I also develop GPU-accelerated, differentiable software for efficient astrophysical inference.
+I study exoplanet populations and their evolution through gravitational microlensing, infrared astronomy, and statistical inference.
 
 [![Website](https://img.shields.io/badge/Website-Personal_site-555?logo=googlechrome&logoColor=white)](https://sites.google.com/view/shotamiyazaki/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9818--1513-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9818-1513)
@@ -13,20 +13,26 @@ I study exoplanet populations through gravitational microlensing, infrared astro
 
 ## Research focus
 
-- **Exoplanet demographics** — occurrence rates and population-level constraints
-- **Gravitational microlensing** — planetary events, higher-order effects, and survey science
-- **Infrared astronomy** — observations and astronomical data analysis
-- **Scientific computing** — JAX, automatic differentiation, GPU acceleration, and Bayesian inference
+- **Exoplanet demographics** — occurrence rates, stellar-age dependence, and population evolution
+- **Gravitational microlensing** — planetary systems, higher-order effects, and Roman Space Telescope science
+- **Infrared astronomy** — observations and characterization of exoplanets and substellar objects
+- **Scientific computing** — differentiable modeling, GPU acceleration, and Bayesian inference
 
-## Featured software
+## Open-source software
 
 ### [microJAX](https://github.com/ShotaMiyazaki94/microjax)
 
-`microJAX` is a fully differentiable, GPU-accelerated JAX library for modeling finite-source gravitational microlensing light curves from binary- and triple-lens systems. It provides gradients with respect to model parameters and is designed for gradient-based Bayesian inference, including Hamiltonian Monte Carlo and variational inference.
+`microJAX` is a GPU-accelerated, differentiable JAX library for modeling binary- and triple-lens gravitational microlensing. It uses image-centered ray shooting to compute finite-source magnifications and their gradients, enabling gradient-based Bayesian inference.
 
-[Documentation](https://shotamiyazaki94.github.io/microjax/) · [PyPI](https://pypi.org/project/microjaxx/) · [Methods paper](https://doi.org/10.3847/1538-4357/ae1005) · [Zenodo](https://doi.org/10.5281/zenodo.17247892)
+[Documentation](https://shotamiyazaki94.github.io/microjax/) · [PyPI (microjaxx)](https://pypi.org/project/microjaxx/) · [Methods paper](https://doi.org/10.3847/1538-4357/ae1005) · [Zenodo](https://doi.org/10.5281/zenodo.17247892)
 
-> microJAX is under active development. Bug reports and contributions are welcome.
+### [singlens](https://github.com/ShotaMiyazaki94/singlens)
+
+`singlens` is a differentiable JAX library for single-lens gravitational microlensing, supporting point- and finite-source magnifications, linear limb darkening, and annual parallax. It is designed for efficient light-curve modeling and gradient-based inference.
+
+[Documentation](https://singlens.readthedocs.io/en/latest/) · [Examples](https://github.com/ShotaMiyazaki94/singlens/tree/main/example) · [Benchmarks](https://singlens.readthedocs.io/en/latest/benchmarks.html)
+
+Both projects are under active development. Bug reports and contributions are welcome.
 
 ## Selected publications
 
@@ -47,5 +53,8 @@ For a complete publication list, see [Google Scholar](https://scholar.google.com
 ## Contact
 
 - Email: `miyazaki [at] ir.isas.jaxa.jp`
+- Website: [sites.google.com/view/shotamiyazaki/](https://sites.google.com/view/shotamiyazaki/)
+
+
 - Website: [sites.google.com/view/shotamiyazaki/](https://sites.google.com/view/shotamiyazaki/)
 
